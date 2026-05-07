@@ -23,4 +23,4 @@ An interactive Battleships game developed as part of a team project.
 1. Install pygame:
    pip install pygame
 2. Run:
-   python main.py
+   python Game.py
